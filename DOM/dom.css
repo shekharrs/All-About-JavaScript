@@ -2,6 +2,7 @@ body{
     background-color: rgb(185, 177, 177);
 }
 
+/* Reference for Searching the DOM & Reference for event listener🎃
 .change-colorBtn{
     background-color: red;
     color: white;
@@ -30,3 +31,47 @@ body{
     margin-left: 45%;
     margin-top: 2%;
 }
+
+.title{
+    color: grey;
+    text-align: center;
+} */
+
+/* Reference for event bubbling & capturing🎃
+form{
+    border: 1px solid black;
+    padding: 4px;
+}
+
+div{
+    border: 1px solid black;
+    padding: 4px;
+}
+
+p{
+    border: 1px solid black;
+    padding: 4px;
+} */
+
+
+/* Reference for event delegation🎃
+.event-delegation{
+    color: crimson;
+    text-align: center;
+}
+
+.red{
+    background-color: red;
+    color: white;
+} */
+
+/* Reference for Creating Html with JavaScript🎃
+img{
+    width: 200px;
+}
+
+span{
+    display: flex;
+    flex-wrap: wrap;
+    width: 15%;
+} */
