@@ -51,7 +51,7 @@ Create a new branch (git checkout -b feature/add-new-lesson).
 
 Add your lesson or example.
 
-Commit your changes (git commit -am 'Add new lesson').
+Commit your changes (git commit -m 'Add new lesson').
 
 Push to the branch (git push origin feature/add-new-lesson).
 
