@@ -41,13 +41,21 @@ Each lesson directory contains one or more JavaScript files (*.js) along with an
 
 
 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴👨‍💻
+
 Contributions are welcome! If you have a lesson or example you'd like to add, please follow these steps:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/add-new-lesson).
+
 Add your lesson or example.
+
 Commit your changes (git commit -am 'Add new lesson').
+
 Push to the branch (git push origin feature/add-new-lesson).
+
 Create a new Pull Request.
+
 Feedback
+
 If you have any feedback, suggestions, or issues, please open an issue. Your input is highly appreciated!
