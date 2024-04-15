@@ -17,16 +17,28 @@ cd All-About-JavaScript
 The lessons are organized into directories, each covering a different topic or concept in JavaScript. Here's an overview of the directory structure:
 
 Lesson1: Introduction to JavaScript
+
 Lesson2: Variables and Data Types
+
 Lesson3: Operators and Expressions
+
 Lesson4: Control Flow (if statements, loops)
+
 Lesson5: Functions
+
 Lesson6: Arrays
+
 Lesson7: Objects
+
 Lesson8: DOM Manipulation
+
 Lesson9: Asynchronous JavaScript (Promises, Async/Await)
+
 Lesson10: ES6+ Features
+
 Each lesson directory contains one or more JavaScript files (*.js) along with any associated resources or examples.
+
+
 
 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴👨‍💻
 Contributions are welcome! If you have a lesson or example you'd like to add, please follow these steps:
