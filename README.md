@@ -1,4 +1,5 @@
 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆🚀
+
 Welcome to the JavaScript Lessons Repository! This repository contains a collection of lessons and examples to help you learn JavaScript. Whether you're a beginner or an experienced developer looking to refresh your skills, you'll find useful resources here.
 
 𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱👇
@@ -56,6 +57,7 @@ Push to the branch (git push origin feature/add-new-lesson).
 
 Create a new Pull Request.
 
-Feedback
+
+𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸🎃
 
 If you have any feedback, suggestions, or issues, please open an issue. Your input is highly appreciated!
