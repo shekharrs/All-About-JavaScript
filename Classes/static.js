@@ -1,4 +1,5 @@
 /**
  * Static- Methods & Properties🔥
  */
-// done by tomorrow 19-04-2024
+
+// done by tomorrow 20-04-2024
