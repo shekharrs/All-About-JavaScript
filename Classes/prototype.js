@@ -1,5 +1,10 @@
 /**
  * Prototype🚀
+ * What is a Prototype?
+ * Prototype Chaining?
+ * Same Methods?
+ * Value of this?
+ * For in v/s Object.keys?
  */
 
 const loginStatus = {
