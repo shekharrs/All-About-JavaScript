@@ -1,6 +1,7 @@
 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆🚀
 
 Welcome to the JavaScript Lessons Repository! This repository contains a collection of lessons and examples to help you learn JavaScript. Whether you're a beginner or an experienced developer looking to refresh your skills, you'll find useful resources here.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱👇
 To get started with the lessons, simply clone this repository to your local machine:
@@ -13,6 +14,7 @@ Then, navigate to the repository directory:
 bash
 Copy code
 cd All-About-JavaScript
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 𝗟𝗲𝘀𝘀𝗼𝗻 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲📝
 The lessons are organized into directories, each covering a different topic or concept in JavaScript. Here's an overview of the directory structure:
@@ -38,8 +40,7 @@ Lesson9: Asynchronous JavaScript (Promises, Async/Await)
 Lesson10: ES6+ Features
 
 Each lesson directory contains one or more JavaScript files (*.js) along with any associated resources or examples.
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴👨‍💻
 
@@ -56,7 +57,7 @@ Commit your changes (git commit -m 'Add new lesson').
 Push to the branch (git push origin feature/add-new-lesson).
 
 Create a new Pull Request.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸🎃
 
