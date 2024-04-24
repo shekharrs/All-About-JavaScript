@@ -5,7 +5,7 @@
 const arr = [1, 2, 3, 4, 5, 6];
 
 function getFilterArr(number) {
-  return number > 3;            // returns a boolean value: true or false
+  return number > 2;            // returns a boolean value: true or false
 }
 
 Array.prototype.myFilter = function (callback) {
