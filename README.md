@@ -36,9 +36,11 @@ Lesson7: Objects
 
 Lesson8: DOM Manipulation
 
-Lesson9: Asynchronous JavaScript (Promises, Async/Await)
+Lesson9: Classes
 
-Lesson10: ES6+ Features
+Lesson10: Asynchronous JavaScript (Promises, Async/Await)
+
+Lesson11: ES6+ Features
 
 Each lesson directory contains one or more JavaScript files (*.js) along with any associated resources or examples.
 
