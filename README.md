@@ -30,17 +30,19 @@ Lesson4: Control Flow (if statements, loops)
 
 Lesson5: Functions
 
-Lesson6: Arrays
+Lesson6: ES6+ Features
 
-Lesson7: Objects
+Lesson7: Arrays
 
-Lesson8: DOM Manipulation
+Lesson8: Objects
 
-Lesson9: Classes
+Lesson9: DOM Manipulation
 
-Lesson10: Asynchronous JavaScript (Promises, Async/Await)
+Lesson10: Classes
 
-Lesson11: ES6+ Features
+Lesson11: Asynchronous JavaScript (Promises, Async/Await)
+
+Lesson12: Polyfills
 
 Each lesson directory contains one or more JavaScript files (*.js) along with any associated resources or examples.
 
