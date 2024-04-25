@@ -16,6 +16,6 @@ Array.prototype.myReduce = function(callback, initalValue){
     return acc;
 }
 
-const total = arr.myReduce(getSum);
+const total = arr.myReduce(getSum,9);
 console.log(total);
 
